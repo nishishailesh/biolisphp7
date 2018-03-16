@@ -1,0 +1,7 @@
+==============
+out put of backup script
+Fri Mar 16 08:01:01 IST 2018
+==============
+mkdir: cannot create directory `/root/backup': File exists
+mount: /dev/sdb2 is already mounted or /media/root/sdb2 busy
+       /dev/sdb2 is already mounted on /media/root/sdb2
